@@ -1,0 +1,6 @@
+mkdir testfolder
+cd testfolder
+pwd
+cd ..
+cp sample5.txt copy.txt
+ls
